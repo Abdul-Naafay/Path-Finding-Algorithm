@@ -1,0 +1,6 @@
+# A file listing all the required Python packages.
+# osmnx
+# folium
+# networkx
+# matplotlib
+# numpy
