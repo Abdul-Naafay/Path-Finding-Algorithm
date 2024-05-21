@@ -1,9 +1,7 @@
 # Pathfinding Algorithms
-
-This project implements several pathfinding algorithms including A*, Best-First Search, and BFS for navigating through a road network.
+This project contains implementations of various pathfinding algorithms such as A*, Best-First Search, and Breadth-First Search. It uses the `osmnx` and `folium` libraries to visualize paths on a map.
 
 ## Installation
-
-1. Clone the repository
-   ```sh
-   git clone https://github.com/yourusername/pathfinding-algorithms.git
+Use the following command to install the required libraries:
+```sh
+pip install -r requirements.txt
